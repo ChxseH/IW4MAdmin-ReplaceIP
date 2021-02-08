@@ -8,7 +8,7 @@ Simple: I have two dynamic IPs. One is hosting Game Servers, one is hosting [IW4
 
 # Requirements
 
-* [This PHP File on a web server.](https://git.chse.xyz/Chase/PHP-ShowIP/raw/branch/main/pub.php)
+* [This PHP File on a web server.](https://raw.githubusercontent.com/ChxseH/PHP-ShowIP/main/pub.php)
 * Python 3
 * Windows
 * CURL
