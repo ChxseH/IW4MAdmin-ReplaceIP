@@ -1,3 +1,5 @@
+## ⚠️ WARNING: This script is really old, and horrible. Use with caution. ⚠️
+
 # IW4MAdmin-ReplaceIP
 Replaces first IPAddress Key with a new one (recursively)
 
